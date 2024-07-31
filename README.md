@@ -15,7 +15,7 @@ Este proyecto es una aplicación de línea de comandos en Dart para gestionar ta
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd tu-repositorio
+    cd GestionTareasDart
     ```
 3. Asegúrate de tener Dart SDK instalado. Puedes descargarlo desde [aquí](https://dart.dev/get-dart).
 
