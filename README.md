@@ -11,7 +11,7 @@ Este proyecto es una aplicación de línea de comandos en Dart para gestionar ta
 
 1. Clona este repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/dotir/GestionTareasDart.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
