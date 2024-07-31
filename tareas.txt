@@ -1,0 +1,2 @@
+Dibujar|es un dibujo|EstadoTarea.norealizada
+Pintar|es un pintura|EstadoTarea.norealizada
